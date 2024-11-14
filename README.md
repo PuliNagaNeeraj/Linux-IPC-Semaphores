@@ -1,10 +1,10 @@
-# Linux-IPC-Semaphores
+# EXP-05 Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
 
-# AIM:
+## AIM:
 To Write a C program that implements a producer-consumer system with two processes using Semaphores.
 
-# DESIGN STEPS:
+## DESIGN STEPS:
 
 ### Step 1:
 
